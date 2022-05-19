@@ -13,3 +13,5 @@ https://www.genymotion.com/download/
 npm run android
 npm run test
 ```
+ branch rn-stack has a stack navigation
+ 
